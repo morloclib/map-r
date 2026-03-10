@@ -5,6 +5,7 @@ import root-r
 
 type R => (Map a b) = "list" a b
 
+%inline
 source R from "R/map.R"
     ( "morloc_keys" as keys
     , "morloc_vals" as values
