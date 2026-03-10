@@ -1,0 +1,11 @@
+name: map-r
+version: 0.1.0
+homepage: https://github.com/morloclib/map-r
+synopsis: R implementations for map operations
+description: R implementations for map operations
+category: data
+license: MIT
+author: "Zebulun Arendsee"
+maintainer: "z@morloc.io"
+github: https://github.com/morloclib/map-r
+bug-reports: https://github.com/morloclib/map-r

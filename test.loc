@@ -1,0 +1,4 @@
+module test-map-r (test)
+
+import map.test (test)
+import map-r
